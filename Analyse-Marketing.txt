@@ -1,0 +1,35 @@
+
+
+Nom de l'équipe : Vikings
+
+Développeurs :
+- Nicolas Heine
+- Fabien Birba
+- Mathilde Bonhomme
+- Jean-Nicolas Correa
+- Alexis Lavigne
+
+
+/*---------------------------------------------------------
+	ANALYSE MARKETING D'APPLICATIONS MOBILES
+---------------------------------------------------------*/
+
+CANDY CRUSH :
+-------------
+
+• Application facile d’utilisation, convient à toute personnes de tout âge
+• Jeu adictif, difficulté évolutive (selon niveaux), il faut gagner un niveau pour accéder à un autre ---> challenge pour l’utilisateur (il doit mériter son contenu)
+• Application gratuite mais qui propose des “aides” payantes pour avancer plus vite dans le jeu
+• Peu être relié à un compte facebook et donc jouer sur plusieurs appareils sans perdre son niveau
+• Propose des promotions ponctuelles sur les ventes
+• Design trés coloré, trés acidulé qui créer une ambiance “bonbon”
+
+
+NETFLIX :
+---------
+
+• 
+• 
+• 
+• 
+• 
