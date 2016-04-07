@@ -7,4 +7,6 @@
 * Afficher les fichiers modifiés : `git status`
 * Valider les changements avant commit : `git add .`ou `git add nom_du_fichier`
 * Si on s'est trompé, pour revenir en arrière par rapport aux dernières modifications : `git reset HEAD .`ou `git reset HEAD nom_du_fichier`
-* bbbbb
+* Pour commiter : `git commit`ou `git commit -m "Mon message"`
+* Pour push (envoyer sur le serveur github) : `git push`
+
